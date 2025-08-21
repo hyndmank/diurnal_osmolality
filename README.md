@@ -1,6 +1,6 @@
 # <p align="center"><b>DIURNAL FUNCTION AND EXPRESSION OF AQUAPORINS IN THE KIDNEY</hx></b></br>
 
-<p align="center">Phi-Hung Nguyen, Nha Van Huynh, Kelly A Hyndman <br>
+<p align="center">Hung Nguyen, Nha Van Huynh, Kelly A Hyndman <br>
 The University of Alabama at Birmingham <br>
 Heersink School of Medicine <br>
 Department of Medicine <br>
